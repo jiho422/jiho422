@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jino
+- 👋 Hi, I’m jiho
 - 👀 I’m interested in Front/Back End
 - 🌱 I’m currently learning JSP
 - 💞️ I’m looking to collaborate on other people
